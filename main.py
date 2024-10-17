@@ -1,5 +1,3 @@
-
-import openai
 import google.generativeai as genai
 import PIL.Image
 import streamlit as st
