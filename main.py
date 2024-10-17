@@ -1,2 +1,3 @@
-import foodAnalysis.py
-foodAnalysis.showfeature()
+from foodAnalysis import showfeature
+
+showfeature()
